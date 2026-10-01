@@ -9,7 +9,7 @@ def bubble_sort(arr):
     return arr
 
 
-numbers = [64, 34, 25, 12, 12, 11, 90]
+numbers = [64, 34,5, 12, 22, 12, 90]
 
 print("Original list:", numbers)
 print("Sorted list:", bubble_sort(numbers))
