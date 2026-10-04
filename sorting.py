@@ -9,8 +9,7 @@ def bubble_sort(arr):
     return arr
 
 
-numbers = [64, 34, 25, 12, 22, 11, 90]
 numbers = [64, 34, 25, 12, 24, 11, 90]
 
 print("Original list:", numbers)
-print("Sorted list:", bubble_sort(numbers))print("Sorted list:", bubble_sort(numbers))
+print("Sorted list:", bubble_sort(numbers))
