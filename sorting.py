@@ -9,7 +9,11 @@ def bubble_sort(arr):
     return arr
 
 
+<<<<<<< HEAD
 numbers = [64, 34, 25, 12, 24, 11, 90]
+=======
+numbers = [64, 34,5, 12, 22, 12, 90]
+>>>>>>> 14af60654139456c157433ac565cc4b710bb1dcf
 
 print("Original list:", numbers)
 print("Sorted list:", bubble_sort(numbers))
